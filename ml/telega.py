@@ -5,7 +5,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-bot_token = '6763430520:AAHHf5ueF6YI70FRvggUBp-ZGmizvjW3Yko'
+bot_token = ...
 bot = telebot.TeleBot(bot_token)
 
 # Загрузка моделей и объектов предварительной обработки
